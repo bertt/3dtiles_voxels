@@ -6,9 +6,6 @@ https://github.com/CesiumGS/3d-tiles/tree/voxels/extensions/3DTILES_content_voxe
 
 https://github.com/CesiumGS/3d-tiles/tree/voxels/extensions/3DTILES_bounding_volume_cylinder
 
-https://github.com/CesiumGS/3d-tiles/tree/voxels/extensions/3DTILES_bounding_volume_ellipsoid
-
-
 https://bertt.github.io/3dtiles_voxels/demos/boxwithshader
 
 https://bertt.github.io/3dtiles_voxels/demos/VoxelBox3DTiles
