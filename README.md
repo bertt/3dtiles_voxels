@@ -13,3 +13,4 @@ https://github.com/CesiumGS/3d-tiles/tree/voxels/extensions/3DTILES_bounding_vol
 | Voxel Box 3D Tiles            | [View Demo](https://bertt.github.io/3dtiles_voxels/demos/VoxelBox3DTiles) | ![Voxel Box](https://bertt.github.io/3dtiles_voxels/demos/VoxelBox3DTiles/screenshot.png) |
 | Voxel Cylinder 3D Tiles       | [View Demo](https://bertt.github.io/3dtiles_voxels/demos/VoxelCylinder3DTiles) | ![Voxel Cylinder](https://bertt.github.io/3dtiles_voxels/demos/VoxelCylinder3DTiles/screenshot.png) |
 | Voxel Ellipsoid 3D Tiles      | [View Demo](https://bertt.github.io/3dtiles_voxels/demos/VoxelEllipsoid3DTiles) | ![Voxel Ellipsoid](https://bertt.github.io/3dtiles_voxels/demos/VoxelEllipsoid3DTiles/screenshot.png) |
+| Voxel waterheight Dam         | [View Demo](https://bertt.github.io/3dtiles_voxels/demos/voxeldam) | ![Voxel Ellipsoid](https://bertt.github.io/3dtiles_voxels/demos/voxeldam/screenshot.png) |
