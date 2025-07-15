@@ -1,0 +1,79 @@
+{
+  "asset": {
+    "version": "1.1"
+  },
+  "schema": {
+    "id": "voxel1",
+    "classes": {
+      "voxel1": {
+        "properties": {
+          "a": {
+            "type": "VEC4",
+            "componentType": "FLOAT32"
+          }
+        }
+      }
+    }
+  },
+  "statistics": {
+    "classes": {
+      "voxel1": {
+        "count": 8,
+        "properties": {
+          "a": {
+            "min": 0.0,
+            "max": 1.0
+          }
+        }
+      }
+    }
+  },
+  "geometricError": 0.0,
+  "root": {
+    "boundingVolume": {
+      "box": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    "geometricError": 16.0,
+    "refine": "REPLACE",
+    "content": {
+      "uri": "tiles/{level}/{x}/{y}/{z}.gltf",
+      "extensions": {
+        "3DTILES_content_voxels": {
+          "dimensions": [
+            10,
+            10,
+            10
+          ],
+          "class": "voxel1"
+        }
+      }
+    },
+    "implicitTiling": {
+      "subdivisionScheme": "OCTREE",
+      "subtreeLevels": 1,
+      "availableLevels": 1,
+      "subtrees": {
+        "uri": "subtrees/{level}/{x}/{y}/{z}.json"
+      }
+    }
+  },
+  "extensionsUsed": [
+    "3DTILES_content_voxels"
+  ],
+  "extensionsRequired": [
+    "3DTILES_content_voxels"
+  ]
+}
