@@ -2,9 +2,11 @@
 
 Specs: 
 
-https://github.com/CesiumGS/3d-tiles/tree/voxels/extensions/3DTILES_content_voxels
+glTF extension: https://github.com/CesiumGS/glTF/tree/3d-tiles-next/extensions/2.0/Vendor/EXT_primitive_voxels
 
-https://github.com/CesiumGS/3d-tiles/tree/voxels/extensions/3DTILES_bounding_volume_cylinder
+tileset.json: https://github.com/CesiumGS/3d-tiles/tree/voxels/extensions/3DTILES_content_voxels
+
+Cylinder: https://github.com/CesiumGS/3d-tiles/tree/voxels/extensions/3DTILES_bounding_volume_cylinder
 
 
 | Demo Name                      | Link | Preview |
