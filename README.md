@@ -16,3 +16,5 @@ Cylinder: https://github.com/CesiumGS/3d-tiles/tree/voxels/extensions/3DTILES_bo
 | Voxel Cylinder 3D Tiles       | [View Demo](https://bertt.github.io/3dtiles_voxels/demos/VoxelCylinder3DTiles) | ![Voxel Cylinder](https://bertt.github.io/3dtiles_voxels/demos/VoxelCylinder3DTiles/screenshot.png) |
 | Voxel Ellipsoid 3D Tiles      | [View Demo](https://bertt.github.io/3dtiles_voxels/demos/VoxelEllipsoid3DTiles) | ![Voxel Ellipsoid](https://bertt.github.io/3dtiles_voxels/demos/VoxelEllipsoid3DTiles/screenshot.png) |
 | Voxel waterheight Dam         | [View Demo](https://bertt.github.io/3dtiles_voxels/demos/voxeldam) | ![Voxel Dam](https://bertt.github.io/3dtiles_voxels/demos/voxeldam/screenshot.png) |
+| Voxel geotop Gorinchem        | [View Demo](https://bertt.github.io/3dtiles_voxels/demos/voxelgorinchem) | ![Voxel Gorinchem](https://bertt.github.io/3dtiles_voxels/demos/voxelgorinchem/screenshot.png) |
+
