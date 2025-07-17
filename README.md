@@ -8,6 +8,11 @@ tileset.json: https://github.com/CesiumGS/3d-tiles/tree/voxels/extensions/3DTILE
 
 Cylinder: https://github.com/CesiumGS/3d-tiles/tree/voxels/extensions/3DTILES_bounding_volume_cylinder
 
+Suisse:
+
+https://viewer.swissgeol.ch/?lon=8.41012&lat=46.83165&elevation=425641&heading=360&pitch=-90&map=ch.swisstopo.pixelkarte-grau&map_transparency=0.00
+
+<img width="910" height="677" alt="image" src="https://github.com/user-attachments/assets/2fdecebd-7b8d-4fa7-b12c-31cc843a5f5a" />
 
 | Demo Name                      | Link | Preview |
 |--------------------------------|------|---------|
